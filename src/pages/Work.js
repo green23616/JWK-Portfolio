@@ -46,7 +46,7 @@ function Work() {
         <ul className='flex 2xl:block gap-x-6'>  
           <li className='team text-md cursor-pointer pb-1' onClick={()=>navigate('/work/team')} style={{ fontFamily: showTeam && 'GmarketSansBold'}}> ▻ Project</li>
           <li className='cloning text-md cursor-pointer pb-1' onClick={()=>navigate('/work/cloning')} style={{ fontFamily: showOutlet && 'GmarketSansBold' }}>▻ Cloning</li>
-          <li className='toy text-md cursor-pointer' onClick={()=>navigate('/work/toy')} style={{ fontFamily: showToy && 'GmarketSansBold' }}> ▻ Toy-project</li>
+          <li className='toy text-md cursor-pointer' onClick={()=>navigate('/work/toy')} style={{ fontFamily: showToy && 'GmarketSansBold' }}> ▻ Examples</li>
         </ul>
       </div>
     </>
