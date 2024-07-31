@@ -16,25 +16,6 @@ function About() {
                 <span className="absolute opacity-100 group-hover:opacity-0 transition-all duration-200 text-[9px] left-12 -top-[5px]">click!</span>
               </a>
             </li>
-            <li className="relative py-3 group">
-              <a href="https://green23616.notion.site/c4f839aa1d9e460d84b3b856a682286c?pvs=4" rel="noreferrer" target="_blank">
-                <img src="/notion.png" alt="notion" title="notion" className="w-8 h-8 ml-2 group-hover:scale-125 transition-all duration-200 mb-1"/>
-                <span className="text-xs ml-[2px]">Notion</span>
-                
-              </a>
-            </li>
-            <li className="pt-4 group mb-3">
-              <a href="https://green23616.notion.site/c4f839aa1d9e460d84b3b856a682286c?pvs=4" rel="noreferrer" target="_blank">
-                <img src="/velog.png" alt="notion" title="velog" className="w-8 h-8 ml-2 group-hover:scale-125 transition-all duration-200"/>
-                <span className="text-xs ml-1">Velog</span>
-              </a>
-            </li>
-            <li className="pt-3 group mb-2">
-              <a href="https://green23616.notion.site/c4f839aa1d9e460d84b3b856a682286c?pvs=4" rel="noreferrer" target="_blank">
-                <img src="/instagram.png" alt="notion" title="notion" className="w-8 h-8 ml-2 group-hover:scale-125 transition-all duration-200"/>
-                <span className="text-[11px] font-bold">Instagram</span>
-              </a>
-            </li>
           </ul>
           <div className="absolute 2xl:text-md top-[42%] ml-7 mr-7 text-md md:text-[19px]">
             <p className="">이름 : 김재완</p>
