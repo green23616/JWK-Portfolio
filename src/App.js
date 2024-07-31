@@ -7,7 +7,6 @@ import Skill from './pages/Skill';
 import Contact from './pages/Contact';
 import Cloning from './pages/Cloning';
 import Team from './pages/Team';
-import Toy from './pages/Toy';
 import Copyright from './components/Copyright';
 
 function App() {
@@ -21,7 +20,6 @@ function App() {
         <Route path='/work' element={<Work/>}>
           <Route path='team' element={<Team/>}></Route>
           <Route path='cloning' element={<Cloning/>}></Route>
-          <Route path='toy' element={<Toy/>}></Route>
         </Route>
         <Route path='/skill' element={<Skill/>}></Route>
         <Route path='/contact' element={<Contact/>}></Route>

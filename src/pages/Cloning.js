@@ -11,6 +11,9 @@ function Contact() {
       <div>
         <CloneBox title="롯데월드" skill="react" skill2="tailwindcss" skill3="Javascript" left2="-left-[18px]" left3="-left-[17px]" contribution="100" worktime="1" detail="클론 코딩" detail2="Swiper, useState, Fontawsome 활용" imgurl="6" vercel="lottecloning" git="green23616/React-LotteWorld" imgurl2="e"/>
       </div>
+      <div className="div">
+        <CloneBox title="추사기념관" skill="react" skill2="tailwindcss" skill3="Javascript" left2="-left-[20px]" left3="-left-[14px]" skill4="figma" contribution="100" worktime="1" detail="클론 코딩" imgurl="3" vercel="react-chusa" git="green23616/React-Chusa" imgurl2="f"/>
+      </div>
     </div>
     </>
   )

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Quotes() {
   return (
-      <h1 className='quotes mx-auto'>
+      <h1 className='quotes mx-auto p-5'>
         <span>It's</span>
         <span>technology</span>
         <span>married</span>
